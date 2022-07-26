@@ -1,0 +1,18 @@
+[0.603s] Invoking command in '/home/robot/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/robot/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/robot/ros2_ws/install/my_py_pkg --editable --build-directory /home/robot/ros2_ws/build/my_py_pkg/build --no-deps install_data --install-dir /home/robot/ros2_ws/install/my_py_pkg
+[0.809s] running develop
+[0.925s] running egg_info
+[0.925s] writing my_py_pkg.egg-info/PKG-INFO
+[0.926s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[0.926s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[0.927s] writing requirements to my_py_pkg.egg-info/requires.txt
+[0.927s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[0.955s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.956s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.983s] running build_ext
+[0.984s] Creating /home/robot/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages/site.py
+[0.986s] Creating /home/robot/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages/my-py-pkg.egg-link (link to .)
+[0.986s] Installing py_node script to /home/robot/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.986s] 
+[0.987s] Installed /home/robot/ros2_ws/build/my_py_pkg
+[0.987s] running install_data
+[1.012s] Invoked command in '/home/robot/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/robot/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/robot/ros2_ws/install/my_py_pkg --editable --build-directory /home/robot/ros2_ws/build/my_py_pkg/build --no-deps install_data --install-dir /home/robot/ros2_ws/install/my_py_pkg

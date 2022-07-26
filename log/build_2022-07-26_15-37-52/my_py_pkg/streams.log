@@ -1,0 +1,20 @@
+[0.560s] Invoking command in '/home/robot/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/robot/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/robot/ros2_ws/install/my_py_pkg --editable --build-directory /home/robot/ros2_ws/build/my_py_pkg/build --no-deps install_data --install-dir /home/robot/ros2_ws/install/my_py_pkg
+[0.758s] running develop
+[0.876s] running egg_info
+[0.877s] writing my_py_pkg.egg-info/PKG-INFO
+[0.877s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[0.877s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[0.877s] writing requirements to my_py_pkg.egg-info/requires.txt
+[0.877s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[0.903s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.903s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.931s] running build_ext
+[0.931s] Creating /home/robot/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages/my-py-pkg.egg-link (link to .)
+[0.932s] Installing num_publisher script to /home/robot/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.932s] Installing py_node script to /home/robot/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.932s] Installing robot_news_station script to /home/robot/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.932s] Installing smartphone script to /home/robot/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.933s] 
+[0.933s] Installed /home/robot/ros2_ws/build/my_py_pkg
+[0.933s] running install_data
+[0.956s] Invoked command in '/home/robot/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/robot/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/robot/ros2_ws/install/my_py_pkg --editable --build-directory /home/robot/ros2_ws/build/my_py_pkg/build --no-deps install_data --install-dir /home/robot/ros2_ws/install/my_py_pkg

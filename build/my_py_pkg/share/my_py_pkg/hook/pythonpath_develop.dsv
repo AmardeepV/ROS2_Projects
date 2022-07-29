@@ -1,1 +1,1 @@
-prepend-non-duplicate;PYTHONPATH;/home/robot/ros2_ws/build/my_py_pkg
+prepend-non-duplicate;PYTHONPATH;/home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg

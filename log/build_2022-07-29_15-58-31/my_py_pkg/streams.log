@@ -1,0 +1,57 @@
+[0.638s] Invoking command in '/home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg': PYTHONPATH=/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg --uninstall --editable --build-directory /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build
+[0.841s] running develop
+[0.958s] Removing /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my-py-pkg.egg-link (link to .)
+[0.976s] Invoked command in '/home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg' returned '0': PYTHONPATH=/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg --uninstall --editable --build-directory /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build
+[0.978s] Invoking command in '/home/robot/ros2_ws/ROS2_Projects/src/my_py_pkg': PYTHONPATH=/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build install --prefix /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg --record /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/install.log --single-version-externally-managed
+[1.165s] running egg_info
+[1.166s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[1.166s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[1.167s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[1.167s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[1.167s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[1.196s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.196s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.197s] running build
+[1.197s] running build_py
+[1.197s] copying my_py_pkg/number_counter.py -> /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg
+[1.197s] copying my_py_pkg/num_publisher.py -> /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg
+[1.197s] copying my_py_pkg/smartphone.py -> /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg
+[1.197s] copying my_py_pkg/robot_news_station.py -> /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg
+[1.197s] copying my_py_pkg/add_two_ints_server.py -> /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg
+[1.197s] copying my_py_pkg/my_first_node.py -> /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg
+[1.198s] copying my_py_pkg/add_two_ints_clients.py -> /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg
+[1.198s] copying my_py_pkg/template_python_node.py -> /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg
+[1.198s] running install
+[1.198s] running install_lib
+[1.199s] creating /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg
+[1.199s] copying /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg/number_counter.py -> /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg
+[1.199s] copying /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg/num_publisher.py -> /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg
+[1.199s] copying /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg/__init__.py -> /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg
+[1.199s] copying /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg/smartphone.py -> /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg
+[1.199s] copying /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg/robot_news_station.py -> /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg
+[1.200s] copying /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_server.py -> /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg
+[1.200s] copying /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg/my_first_node.py -> /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg
+[1.200s] copying /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_clients.py -> /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg
+[1.200s] copying /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg/template_python_node.py -> /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg
+[1.200s] byte-compiling /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg/number_counter.py to number_counter.cpython-38.pyc
+[1.201s] byte-compiling /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg/num_publisher.py to num_publisher.cpython-38.pyc
+[1.201s] byte-compiling /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg/__init__.py to __init__.cpython-38.pyc
+[1.201s] byte-compiling /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg/smartphone.py to smartphone.cpython-38.pyc
+[1.202s] byte-compiling /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg/robot_news_station.py to robot_news_station.cpython-38.pyc
+[1.202s] byte-compiling /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg/add_two_ints_server.py to add_two_ints_server.cpython-38.pyc
+[1.202s] byte-compiling /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg/my_first_node.py to my_first_node.cpython-38.pyc
+[1.202s] byte-compiling /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg/add_two_ints_clients.py to add_two_ints_clients.cpython-38.pyc
+[1.203s] byte-compiling /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg/template_python_node.py to template_python_node.cpython-38.pyc
+[1.203s] running install_data
+[1.203s] running install_egg_info
+[1.204s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg-0.0.0-py3.8.egg-info
+[1.205s] running install_scripts
+[1.220s] Installing add_two_ints_clients script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.220s] Installing add_two_ints_server script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.220s] Installing num_publisher script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.220s] Installing number_counter script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.220s] Installing py_node script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.220s] Installing robot_news_station script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.220s] Installing smartphone script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.220s] writing list of installed files to '/home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/install.log'
+[1.240s] Invoked command in '/home/robot/ros2_ws/ROS2_Projects/src/my_py_pkg' returned '0': PYTHONPATH=/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build install --prefix /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg --record /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/install.log --single-version-externally-managed

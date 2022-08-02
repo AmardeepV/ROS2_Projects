@@ -1,0 +1,36 @@
+[0.584s] Invoking command in '/home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg': PYTHONPATH=/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages:/home/robot/ros2_ws/ROS2_Projects/install/my_robot_interfaces/lib/python3.8/site-packages:/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 setup.py develop --prefix /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg --uninstall --editable --build-directory /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build
+[0.798s] running develop
+[0.940s] Invoked command in '/home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg' returned '0': PYTHONPATH=/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages:/home/robot/ros2_ws/ROS2_Projects/install/my_robot_interfaces/lib/python3.8/site-packages:/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 setup.py develop --prefix /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg --uninstall --editable --build-directory /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build
+[0.942s] Invoking command in '/home/robot/ros2_ws/ROS2_Projects/src/my_py_pkg': PYTHONPATH=/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages:/home/robot/ros2_ws/ROS2_Projects/install/my_robot_interfaces/lib/python3.8/site-packages:/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build install --prefix /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg --record /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/install.log --single-version-externally-managed
+[1.130s] running egg_info
+[1.131s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[1.131s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[1.131s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[1.131s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[1.131s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[1.160s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.161s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.161s] running build
+[1.161s] running build_py
+[1.161s] copying my_py_pkg/led_panel_node.py -> /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg
+[1.162s] running install
+[1.162s] running install_lib
+[1.163s] copying /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build/lib/my_py_pkg/led_panel_node.py -> /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg
+[1.164s] byte-compiling /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg/led_panel_node.py to led_panel_node.cpython-38.pyc
+[1.165s] running install_data
+[1.166s] running install_egg_info
+[1.167s] removing '/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[1.167s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages/my_py_pkg-0.0.0-py3.8.egg-info
+[1.168s] running install_scripts
+[1.182s] Installing add_two_ints_client script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.182s] Installing add_two_ints_server script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.182s] Installing battery script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.182s] Installing hw_status_publisher script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.182s] Installing led_panel_node script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.183s] Installing num_publisher script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.183s] Installing number_counter script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.183s] Installing py_node script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.183s] Installing robot_news_station script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.183s] Installing smartphone script to /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/my_py_pkg
+[1.183s] writing list of installed files to '/home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/install.log'
+[1.202s] Invoked command in '/home/robot/ros2_ws/ROS2_Projects/src/my_py_pkg' returned '0': PYTHONPATH=/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages:/home/robot/ros2_ws/ROS2_Projects/install/my_robot_interfaces/lib/python3.8/site-packages:/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/build install --prefix /home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg --record /home/robot/ros2_ws/ROS2_Projects/build/my_py_pkg/install.log --single-version-externally-managed

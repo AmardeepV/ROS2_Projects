@@ -1,0 +1,25 @@
+{
+  "package_name": "my_robot_interfaces",
+  "output_dir": "/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces/rosidl_typesupport_introspection_cpp/my_robot_interfaces",
+  "template_dir": "/opt/ros/foxy/share/rosidl_typesupport_introspection_cpp/resource",
+  "idl_tuples": [
+    "/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/HardwareStatus.idl",
+    "/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/ComputeRectangleArea.idl",
+    "/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/LedStates.idl",
+    "/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/SetLed.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/foxy/lib/rosidl_typesupport_introspection_cpp/rosidl_typesupport_introspection_cpp",
+    "/opt/ros/foxy/lib/python3.8/site-packages/rosidl_typesupport_introspection_cpp/__init__.py",
+    "/opt/ros/foxy/share/rosidl_typesupport_introspection_cpp/resource/idl__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/ros/foxy/share/rosidl_typesupport_introspection_cpp/resource/idl__type_support.cpp.em",
+    "/opt/ros/foxy/share/rosidl_typesupport_introspection_cpp/resource/msg__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/ros/foxy/share/rosidl_typesupport_introspection_cpp/resource/msg__type_support.cpp.em",
+    "/opt/ros/foxy/share/rosidl_typesupport_introspection_cpp/resource/srv__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/ros/foxy/share/rosidl_typesupport_introspection_cpp/resource/srv__type_support.cpp.em",
+    "/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/msg/HardwareStatus.idl",
+    "/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/srv/ComputeRectangleArea.idl",
+    "/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/msg/LedStates.idl",
+    "/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces/srv/SetLed.idl"
+  ]
+}

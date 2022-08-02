@@ -1,0 +1,1 @@
+/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces/ament_cmake_core/my_robot_interfacesConfig-version.cmake

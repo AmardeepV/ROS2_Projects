@@ -25,8 +25,11 @@ setup(
             "smartphone = my_py_pkg.smartphone:main",
             "num_publisher = my_py_pkg.num_publisher:main",
             "number_counter = my_py_pkg.number_counter:main",
-            "add_two_ints_server = my_py_pkg.add_two_ints_server:main"
-
+            "add_two_ints_server = my_py_pkg.add_two_ints_server:main",
+            "add_two_ints_client = my_py_pkg.add_two_ints_client:main",
+            "hw_status_publisher = my_py_pkg.hw_status_publisher:main",
+            "led_panel_node = my_py_pkg.led_panel_node:main",
+            "battery = my_py_pkg.battery:main"
         ],
     },
 )

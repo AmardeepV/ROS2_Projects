@@ -1,0 +1,4 @@
+[console_scripts]
+turtle_spwaner = catch_all_turtles.turtle_spwaner:main
+turtlesim_controller = catch_all_turtles.turtlesim_controller:main
+

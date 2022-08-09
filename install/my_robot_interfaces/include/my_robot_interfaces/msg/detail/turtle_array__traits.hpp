@@ -1,0 +1,1 @@
+/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces/rosidl_generator_cpp/my_robot_interfaces/msg/detail/turtle_array__traits.hpp

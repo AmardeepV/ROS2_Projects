@@ -1,0 +1,6 @@
+source;share/catch_all_turtles/hook/pythonpath.ps1
+source;share/catch_all_turtles/hook/pythonpath.dsv
+source;share/catch_all_turtles/hook/pythonpath.sh
+source;share/catch_all_turtles/hook/ament_prefix_path.ps1
+source;share/catch_all_turtles/hook/ament_prefix_path.dsv
+source;share/catch_all_turtles/hook/ament_prefix_path.sh

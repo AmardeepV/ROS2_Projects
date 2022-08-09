@@ -1,0 +1,3 @@
+[console_scripts]
+turtle_controller = catch_all_turtle.turtle_controller:main
+

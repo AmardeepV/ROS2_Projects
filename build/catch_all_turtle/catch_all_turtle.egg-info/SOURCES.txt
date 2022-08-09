@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+catch_all_turtle/__init__.py
+catch_all_turtle.egg-info/PKG-INFO
+catch_all_turtle.egg-info/SOURCES.txt
+catch_all_turtle.egg-info/dependency_links.txt
+catch_all_turtle.egg-info/entry_points.txt
+catch_all_turtle.egg-info/requires.txt
+catch_all_turtle.egg-info/top_level.txt
+catch_all_turtle.egg-info/zip-safe
+resource/catch_all_turtle

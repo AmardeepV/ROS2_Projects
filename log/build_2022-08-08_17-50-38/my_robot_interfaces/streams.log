@@ -1,0 +1,33 @@
+[0.027s] Invoking command in '/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg:/home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles:/home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtle:/opt/ros/foxy /usr/bin/cmake --build /home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces -- -j8 -l8
+[0.105s] CMake Warning (dev) at CMakeLists.txt:21:
+[0.105s]   Syntax Warning in cmake code at column 19
+[0.105s] 
+[0.105s]   Argument not separated from preceding token by whitespace.
+[0.105s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[0.105s] 
+[0.105s] CMake Warning (dev) at CMakeLists.txt:22:
+[0.105s]   Syntax Warning in cmake code at column 24
+[0.105s] 
+[0.105s]   Argument not separated from preceding token by whitespace.
+[0.105s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[0.105s] 
+[0.116s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.146s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.146s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.313s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.330s] -- Found rosidl_default_generators: 1.0.1 (/opt/ros/foxy/share/rosidl_default_generators/cmake)
+[0.334s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.339s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.472s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.497s] CMake Error at /opt/ros/foxy/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:93 (message):
+[0.497s]   rosidl_generate_interfaces() the passed file ',' doesn't exist relative to
+[0.497s]   the CMAKE_CURRENT_SOURCE_DIR
+[0.497s]   '/home/robot/ros2_ws/ROS2_Projects/src/my_robot_interfaces'
+[0.497s] Call Stack (most recent call first):
+[0.497s]   CMakeLists.txt:17 (rosidl_generate_interfaces)
+[0.497s] 
+[0.497s] 
+[0.498s] -- Configuring incomplete, errors occurred!
+[0.498s] See also "/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces/CMakeFiles/CMakeOutput.log".
+[0.502s] make: *** [Makefile:1468: cmake_check_build_system] Error 1
+[0.504s] Invoked command in '/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ros2_ws/ROS2_Projects/install/my_py_pkg:/home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles:/home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtle:/opt/ros/foxy /usr/bin/cmake --build /home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces -- -j8 -l8

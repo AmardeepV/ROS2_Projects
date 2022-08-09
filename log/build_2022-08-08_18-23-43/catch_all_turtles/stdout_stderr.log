@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing catch_all_turtles.egg-info/PKG-INFO
+writing dependency_links to catch_all_turtles.egg-info/dependency_links.txt
+writing entry points to catch_all_turtles.egg-info/entry_points.txt
+writing requirements to catch_all_turtles.egg-info/requires.txt
+writing top-level names to catch_all_turtles.egg-info/top_level.txt
+reading manifest file 'catch_all_turtles.egg-info/SOURCES.txt'
+writing manifest file 'catch_all_turtles.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/python3.8/site-packages/catch-all-turtles.egg-link (link to .)
+Installing turtle_spwaner script to /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/catch_all_turtles
+Installing turtlesim_controller script to /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/catch_all_turtles
+
+Installed /home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtles
+running install_data
+copying package.xml -> /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/share/catch_all_turtles

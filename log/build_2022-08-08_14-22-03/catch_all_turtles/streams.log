@@ -1,0 +1,18 @@
+[0.583s] Invoking command in '/home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtles': PYTHONPATH=/home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles --editable --build-directory /home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtles/build --no-deps install_data --install-dir /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles
+[0.792s] running develop
+[0.912s] running egg_info
+[0.912s] writing catch_all_turtles.egg-info/PKG-INFO
+[0.913s] writing dependency_links to catch_all_turtles.egg-info/dependency_links.txt
+[0.913s] writing entry points to catch_all_turtles.egg-info/entry_points.txt
+[0.913s] writing requirements to catch_all_turtles.egg-info/requires.txt
+[0.913s] writing top-level names to catch_all_turtles.egg-info/top_level.txt
+[0.939s] reading manifest file 'catch_all_turtles.egg-info/SOURCES.txt'
+[0.940s] writing manifest file 'catch_all_turtles.egg-info/SOURCES.txt'
+[0.967s] running build_ext
+[0.968s] Creating /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/python3.8/site-packages/catch-all-turtles.egg-link (link to .)
+[0.968s] Installing turtlesim_controller script to /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/catch_all_turtles
+[0.969s] 
+[0.969s] Installed /home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtles
+[0.969s] running install_data
+[0.969s] copying package.xml -> /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/share/catch_all_turtles
+[0.994s] Invoked command in '/home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtles' returned '0': PYTHONPATH=/home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles --editable --build-directory /home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtles/build --no-deps install_data --install-dir /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles

@@ -1,0 +1,1 @@
+/home/robot/ros2_ws/ROS2_Projects/build/my_robot_interfaces/rosidl_typesupport_introspection_c/my_robot_interfaces/msg/detail/turtle__rosidl_typesupport_introspection_c.h

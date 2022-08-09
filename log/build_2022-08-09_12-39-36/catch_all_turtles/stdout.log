@@ -1,0 +1,27 @@
+running develop
+running egg_info
+writing ../../build/catch_all_turtles/catch_all_turtles.egg-info/PKG-INFO
+writing dependency_links to ../../build/catch_all_turtles/catch_all_turtles.egg-info/dependency_links.txt
+writing entry points to ../../build/catch_all_turtles/catch_all_turtles.egg-info/entry_points.txt
+writing requirements to ../../build/catch_all_turtles/catch_all_turtles.egg-info/requires.txt
+writing top-level names to ../../build/catch_all_turtles/catch_all_turtles.egg-info/top_level.txt
+reading manifest file '../../build/catch_all_turtles/catch_all_turtles.egg-info/SOURCES.txt'
+writing manifest file '../../build/catch_all_turtles/catch_all_turtles.egg-info/SOURCES.txt'
+running build
+running build_py
+copying catch_all_turtles/turtlesim_controller.py -> /home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtles/build/lib/catch_all_turtles
+copying catch_all_turtles/turtle_spwaner.py -> /home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtles/build/lib/catch_all_turtles
+running install
+running install_lib
+copying /home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtles/build/lib/catch_all_turtles/turtlesim_controller.py -> /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/python3.8/site-packages/catch_all_turtles
+copying /home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtles/build/lib/catch_all_turtles/turtle_spwaner.py -> /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/python3.8/site-packages/catch_all_turtles
+byte-compiling /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/python3.8/site-packages/catch_all_turtles/turtlesim_controller.py to turtlesim_controller.cpython-38.pyc
+byte-compiling /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/python3.8/site-packages/catch_all_turtles/turtle_spwaner.py to turtle_spwaner.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/python3.8/site-packages/catch_all_turtles-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/catch_all_turtles/catch_all_turtles.egg-info to /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/python3.8/site-packages/catch_all_turtles-0.0.0-py3.8.egg-info
+running install_scripts
+Installing turtle_spwaner script to /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/catch_all_turtles
+Installing turtlesim_controller script to /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtles/lib/catch_all_turtles
+writing list of installed files to '/home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtles/install.log'

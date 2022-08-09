@@ -1,0 +1,17 @@
+[0.594s] Invoking command in '/home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtle': PYTHONPATH=/home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtle --editable --build-directory /home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtle/build --no-deps install_data --install-dir /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtle
+[0.824s] running develop
+[0.959s] running egg_info
+[0.959s] writing catch_all_turtle.egg-info/PKG-INFO
+[0.959s] writing dependency_links to catch_all_turtle.egg-info/dependency_links.txt
+[0.959s] writing entry points to catch_all_turtle.egg-info/entry_points.txt
+[0.959s] writing requirements to catch_all_turtle.egg-info/requires.txt
+[0.959s] writing top-level names to catch_all_turtle.egg-info/top_level.txt
+[0.986s] reading manifest file 'catch_all_turtle.egg-info/SOURCES.txt'
+[0.987s] writing manifest file 'catch_all_turtle.egg-info/SOURCES.txt'
+[1.014s] running build_ext
+[1.014s] Creating /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtle/lib/python3.8/site-packages/catch-all-turtle.egg-link (link to .)
+[1.015s] Installing turtle_controller script to /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtle/lib/catch_all_turtle
+[1.015s] 
+[1.015s] Installed /home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtle
+[1.015s] running install_data
+[1.041s] Invoked command in '/home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtle' returned '0': PYTHONPATH=/home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtle --editable --build-directory /home/robot/ros2_ws/ROS2_Projects/build/catch_all_turtle/build --no-deps install_data --install-dir /home/robot/ros2_ws/ROS2_Projects/install/catch_all_turtle

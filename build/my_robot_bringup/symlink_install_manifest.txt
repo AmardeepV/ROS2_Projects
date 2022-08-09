@@ -1,5 +1,6 @@
 /home/robot/ros2_ws/ROS2_Projects/install/my_robot_bringup/share/my_robot_bringup/launch/activity.launch.py
 /home/robot/ros2_ws/ROS2_Projects/install/my_robot_bringup/share/my_robot_bringup/launch/number_app.launch.py
+/home/robot/ros2_ws/ROS2_Projects/install/my_robot_bringup/share/my_robot_bringup/launch/turtlesim_catch_them_all.launch.py
 /home/robot/ros2_ws/ROS2_Projects/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
 /home/robot/ros2_ws/ROS2_Projects/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
 /home/robot/ros2_ws/ROS2_Projects/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
